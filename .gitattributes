@@ -1,0 +1,7 @@
+# Windows launcher and the plain-text guide keep Windows line endings
+*.bat text eol=crlf
+README.txt text eol=crlf
+*.sh text eol=lf
+*.command text eol=lf
+*.ttf binary
+*.zip binary

@@ -1,6 +1,6 @@
 # Pixel Face: Halloween Edition
 
-A retro 80s arcade-style animated face for a Halloween door or porch display. The "AI" reacts to each trick-or-treater's costume: an operator presses a key, the face plays a little "computer thinking" chirp, and answers with an expression, a reaction, or a jump scare, each with its own synthesized arcade sound.
+A retro 80s arcade-style animated face for a Halloween door or porch display, inspired by Edgar from Electric Dreams movie (https://www.imdb.com/title/tt0087197/). The "AI" reacts to each trick-or-treater's costume: an operator presses a key, the face plays a little "computer thinking" chirp, and answers with an expression, a reaction, or a jump scare, each with its own synthesized arcade sound.
 
 Everything runs in a single HTML file with no install, no build step, and no internet connection required.
 
